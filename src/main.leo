@@ -1,4 +1,4 @@
-// The 'templateankara' program.
+
 program tokenTransferAlgo.aleo {
 
     mapping account:address => u64;
